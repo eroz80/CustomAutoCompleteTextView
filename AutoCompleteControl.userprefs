@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{E8EBD7D9-334D-404A-B8F8-F04EC4F21209}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AutoCompleteControl/MainActivity.cs">
+    <Files>
+      <File FileName="AutoCompleteControl/CountriesProvider.cs" Line="9" Column="25" />
+      <File FileName="AutoCompleteControl/SimpleCursorAdapterInterfaces.cs" Line="38" Column="2" />
+      <File FileName="AutoCompleteControl/MainActivity.cs" Line="29" Column="93" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../LetSolutions/TotalTechDevelopment/Parkcope/Parkcope/parkcope090816/ParkCope/Destino/Cronometro.cs" line="426" offsetX="669" offsetY="4656" expression="registro.Estatus_de_Servicio" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.AutoCompleteControl AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus_5X_API_23_Marshmallow" />
+  <MultiItemStartupConfigurations />
+</Properties>
